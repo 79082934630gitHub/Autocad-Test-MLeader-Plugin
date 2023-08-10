@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutodeskTestLab", "AutodeskTestLab\AutodeskTestLab.csproj", "{14F54E9E-1643-4957-8566-C10E6B24C17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F54E9E-1643-4957-8566-C10E6B24C17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F54E9E-1643-4957-8566-C10E6B24C17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F54E9E-1643-4957-8566-C10E6B24C17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F54E9E-1643-4957-8566-C10E6B24C17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41248762-2E44-488F-883B-5BD73D0843A1}
+	EndGlobalSection
+EndGlobal
